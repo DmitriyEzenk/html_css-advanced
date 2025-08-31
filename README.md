@@ -1,1 +1,2 @@
-# html_css-advanced
+npm i
+gulp build
